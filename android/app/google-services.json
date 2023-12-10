@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843975042663",
+    "project_id": "flixid-movies",
+    "storage_bucket": "flixid-movies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843975042663:android:b7f4985b9b1fb4c6af96c2",
+        "android_client_info": {
+          "package_name": "com.mutudev.flixid_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTqZYtCxRjM7GaNfS51zeUfku4CdSn6XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
